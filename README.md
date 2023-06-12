@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siddarth Chincholi S D</h1>
 <h3 align="center">A passionate learner and developer</h3>
 
-- 🔭 I’m currently Studying **B.Tech(Computer Science Engineering)at Reva University**
+- 🔭 I’m currently pursuing **B.Tech degree in Computer Science Engineering at Reva University**
 
-- 🌱 I’m currently learning **programming and cloud computing**
+- 🌱 I’m currently learning **programming, web development and cloud computing**
 
 - My area of Interest's are **Web Development, Android Development, Database Management, Cloud Computing.**
 
